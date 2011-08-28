@@ -1,0 +1,3 @@
+This gem allows you to provision Vagrant VMs with sprinkle in a single Vagrantfile.
+
+Nothing to see here yet, move along...
